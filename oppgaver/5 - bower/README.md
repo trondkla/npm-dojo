@@ -1,4 +1,4 @@
-#Mange type avhengigheter
+# NPM og Bower
 Prosjekter ender ofte opp med mange eksterne ressurser. Noen fra npm, noen fra bower, noen fra github og andre bare eksterne script i ditt eget repo.
 
 Her er ett løsningsforslag for å håndtere en slik situasjon
