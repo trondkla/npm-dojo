@@ -7,4 +7,4 @@ Hvis man har gjort alt riktig skal det stå "Riktig!" hvis man går inn på http
 
 
 ## Hint
-- Har du husket å kjøre npm install?
+- Har du husket å kjøre _npm install_?
