@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/trondkla/npm-dojo",
+  "dependencies": {
+  },
+  "scripts": {
+    "start": "node check.js"
+  }
+}
