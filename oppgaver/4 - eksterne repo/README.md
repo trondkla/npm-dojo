@@ -14,4 +14,9 @@ I denne oppgaven skal du hente nyeste versjon av AwesomeCMS fra http://github.co
 Hvis man har gjort alt riktig skal det stå "Riktig!" hvis man går inn på http://localhost:8080/.
 
 
+## Ting å legge merke til
+- Har man eksterne repo vil de alltid prøve å laste ned de hver gang man kjører npm install
+
+
 ## Hint
+- Syntaxen for eksterne repo er litt anderledes enn github sin standardlenke
